@@ -1,3 +1,4 @@
+import csv
 import pandas as pd
 import numpy as np
 import requests
@@ -31,5 +32,5 @@ for page in pages:
             pass
     print(f'Page: {page}')
 
-a = pd.DataFrame(data = data)
-print(a)
+laptop_details =  pd.DataFrame(data = data)
+laptop_details.to_csv('laptop_details_output.csv')
