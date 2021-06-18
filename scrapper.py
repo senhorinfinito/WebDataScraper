@@ -28,6 +28,7 @@ for page in pages:
                            'Screen': item.find('ul', attrs = {'class': '_1xgFaf'}).find_all('li')[4].text,
                            'Warranty': item.find('ul', attrs = {'class': '_1xgFaf'}).find_all('li')[5].text}
             data.append(laptop_info)
+
         except:
             pass
     print(f'Page: {page}')
