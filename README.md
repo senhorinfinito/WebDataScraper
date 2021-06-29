@@ -3,7 +3,7 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
 #  Web Scrapping 
 
 This repository contains different types data web data Scrapping projects file. 
