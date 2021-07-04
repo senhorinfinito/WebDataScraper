@@ -1,16 +1,8 @@
-# This is a sample Python script.
+import scrapy_tripadvis as st
+import pandas as pd
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+path = r"C:\Users\Anant Sakhare\Desktop\scrapper\airline_project\chromedriver.exe"
 
+df = st.get_jobs('data scientist',1000, False, path, 15)
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+df.to_csv('glassdoor_jobs.csv', index = False)
