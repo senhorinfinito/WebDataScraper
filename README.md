@@ -16,7 +16,7 @@ This code helps you to find different house's data which is the available web.
 
 I preferred 99acres.com for this project. The interface of the web page looks like this:
 
-![99acre.com](https://github.com/senhorinfinito/readme_files/blob/main/rental_analysis/99acres.jpg)
+![99acre.com](https://github.com/senhorinfinito/scrappers/blob/main/images/99acres.jpg)
 
 Run the web scraper to scrape 15000 housing data from [99acres.com](https://www.99acres.com/flats-for-rent-in-pune-ffid-page-2) Each sample(row) has the following points:
 - rent (Target Variable)
@@ -54,7 +54,7 @@ This is my first python web scrapping learning project.
 I have used [housing.com](https://housing.com/rent/flats-for-rent-in-pune-maharashtra-P2r4v3l939lxd541t?page=1) for this project & managed  to collect following points for a house. 
  
  
-![image](https://github.com/senhorinfinito/readme_all/blob/main/rental_analysis/housing.com.jpg)
+![image](https://github.com/senhorinfinito/scrappers/blob/main/images/housing.com.jpg)
 
  - Rent
  - BHK 
@@ -73,7 +73,7 @@ Here you can check for [code](https://github.com/senhorinfinito/scrappers/blob/m
 
 Every E-commerce website is a data repository. This repository helps you t get laptops & their specifications. It is capable of scrapping 470+ laptops data from [filpkart.com](https://www.flipkart.com/search?q=laptops&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off). 
 
-![image](https://github.com/senhorinfinito/readme_files/blob/main/scrapper/laptop_details.jpg)
+![image](https://github.com/senhorinfinito/scrappers/blob/main/images/laptop_details.jpg)
 This code returns the following details:
 1. Laptop Name
 2. Price -  Target
