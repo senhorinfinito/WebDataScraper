@@ -1,5 +1,6 @@
 ![alt text](https://github.com/senhorinfinito/scrappers/blob/main//data_scrapper.png?raw=true)
 
+[![visits](https://github-visit-counter.herokuapp.com/{senhorinfinito}/{scrappers}/visits.svg)](#)
 
 ## Badges
 
