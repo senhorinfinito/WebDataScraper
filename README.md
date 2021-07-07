@@ -1,6 +1,7 @@
 ![alt text](https://github.com/senhorinfinito/scrappers/blob/main//data_scrapper.png?raw=true)
 
 
+![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/scrappers.svg?cache=remove)
 
 ## Badges
 
