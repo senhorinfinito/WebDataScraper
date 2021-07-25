@@ -1,6 +1,8 @@
 ![alt text](https://github.com/senhorinfinito/scrappers/blob/main//data_scrapper.png?raw=true)
 
 
+![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/scrappers.svg?cache=remove)
+
 ## Badges
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
@@ -14,9 +16,9 @@ These are projects which I have done in web data scrapping:
 
 This code helps you to find different house's data which is the available web. 
 
-I preferred 99acres.com for this project. The interface of the web page looks like this:
+I referred to 99acres.com for this project. The interface of the web page looks like this:
 
-![99acre.com](https://github.com/senhorinfinito/readme_files/blob/main/rental_analysis/99acres.jpg)
+![99acre.com](https://github.com/senhorinfinito/scrappers/blob/main/images/99acres.jpg)
 
 Run the web scraper to scrape 15000 housing data from [99acres.com](https://www.99acres.com/flats-for-rent-in-pune-ffid-page-2) Each sample(row) has the following points:
 - rent (Target Variable)
@@ -49,12 +51,12 @@ Run the web scraper to scrape 15000 housing data from [99acres.com](https://www.
 
 ## Housing Rental from [Housing.com](https://housing.com/rent/flats-for-rent-in-pune-maharashtra-P2r4v3l939lxd541t?page=1) 
 
-This is my first python web scrapping learning project.
+This is my first python web scraping learning project.
 
 I have used [housing.com](https://housing.com/rent/flats-for-rent-in-pune-maharashtra-P2r4v3l939lxd541t?page=1) for this project & managed  to collect following points for a house. 
  
  
-![image](https://github.com/senhorinfinito/readme_all/blob/main/rental_analysis/housing.com.jpg)
+![image](https://github.com/senhorinfinito/scrappers/blob/main/images/housing.com.jpg)
 
  - Rent
  - BHK 
@@ -71,9 +73,9 @@ Here you can check for [code](https://github.com/senhorinfinito/scrappers/blob/m
 
 ##  Laptop Data Scrapping With Specifications. 
 
-Every E-commerce website is a data repository. This repository helps you t get laptops & their specifications. It is capable of scrapping 470+ laptops data from [filpkart.com](https://www.flipkart.com/search?q=laptops&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off). 
+Every E-commerce website is a data repository. This repository helps you to get laptops & their specifications. It is capable of scrapping 470+ laptops data from [filpkart.com](https://www.flipkart.com/search?q=laptops&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off). 
 
-![image](https://github.com/senhorinfinito/readme_files/blob/main/scrapper/laptop_details.jpg)
+![image](https://github.com/senhorinfinito/scrappers/blob/main/images/laptop_details.jpg)
 This code returns the following details:
 1. Laptop Name
 2. Price -  Target
@@ -90,12 +92,12 @@ This code returns the following details:
 
 Here you can check the [code](https://github.com/senhorinfinito/scrappers/blob/main/laptop_details/scrapper.py).
 
-Suggestions: If you want to scrap more data quantity please use more exceptions.
+Suggestions: If you want to scrape more data quantity please use more exceptions.
 
 
 ## Stock Market News Scrapping.
 
-This scraper helps to scrap the text of each headline from India's top newspaper websites.  
+This scraper helps to scrape the text of each headline from India's top newspaper websites.  
 
 I preferred the following newspapers websites for data collection: 
 
