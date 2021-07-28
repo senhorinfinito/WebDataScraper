@@ -12,6 +12,10 @@ While working on existing datasets, I feel that these datasets are best for brus
 
 These are projects which I have done in web data scrapping:
 
+## Automated tools for web data scrapping.
+### Airline reviews
+### Project details - Mobile details
+
 ## Housing Rental Prices.  - [code](https://github.com/senhorinfinito/scrappers/blob/main/rental_analysis/99acres.py)
 
 This code helps you to find different house's data which is the available web. 
