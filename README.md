@@ -14,6 +14,10 @@ These are projects which I have done in web data scrapping:
 
 ## Automated tools for web data scrapping.
 ### Airline reviews
+
+- used selenium webdriver & automated to scrape data from tripadvisor.com
+- this will scrape each and every airline data from website.
+- 
 ### Project details - Mobile details
 
 ## Housing Rental Prices.  - [code](https://github.com/senhorinfinito/scrappers/blob/main/rental_analysis/99acres.py)
