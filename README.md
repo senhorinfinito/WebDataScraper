@@ -1,11 +1,14 @@
-![alt text](https://github.com/senhorinfinito/scrappers/blob/main//data_scrapper.png?raw=true)
-
+# Data Scrapping Scrpits
 
 ![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/scrappers.svg?cache=remove)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+
+This repository is mainly divided into 2  Categories. First on is Text-Data(includes numeric data) & image data. 
+
 
 ## Badges
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 # Web Scraping using Python
 While working on existing datasets, I feel that these datasets are best for brushing up data cleaning, feature engineering skills. But the working on a brand new data set has always felt incomplete.  So I learned web scraping by using Python.  BeautifulSoup is a python library is helps you to web scrap tasks very efficiently & easily.  
