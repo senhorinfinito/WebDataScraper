@@ -6,126 +6,22 @@
 
 This repository is mainly divided into 2  Categories. First on is Text-Data(includes numeric data) & image data. 
 
+Following is the list of mini-project for data collection. 
+### Text Data Projects 
+   - [Customers Reviews - Air India from tripadvisior.com](https://github.com/senhorinfinito/scrappers/tree/main/Text-Data-Scrapping/air_india). 
+   - [Laptop Details - Flipkart](https://github.com/senhorinfinito/scrappers/tree/main/Text-Data-Scrapping/laptop_details)
+   - [Mobile Product Details from Flipkart](https://github.com/senhorinfinito/scrappers/tree/main/Text-Data-Scrapping/mobile_details)
+   - [Mobile purchase & performance review from customer on flipkart.com](https://github.com/senhorinfinito/scrappers/tree/main/Text-Data-Scrapping/mobile_review)
+   - [News Heading scrapping from 3 newspapers(economictimes, business-standard, financialexpress )](https://github.com/senhorinfinito/scrappers/tree/main/Text-Data-Scrapping/news_headings)
+   - [Rental Data Scrapping from 99acres.com & housing.com](https://github.com/senhorinfinito/scrappers/tree/main/Text-Data-Scrapping/rental_analysis)
+   - [Telegram History Data Extracction](https://github.com/senhorinfinito/scrappers/tree/main/Text-Data-Scrapping/telegram_chat)
+   - [Customers Review of Vistra Air-Lines from tripadvisor.com](https://github.com/senhorinfinito/scrappers/tree/main/Text-Data-Scrapping/vistra_review)
+  
+### Image Data Projects 
+   - [High Quality Images scrapping from pexel.com](https://github.com/senhorinfinito/scrappers/blob/main/Images-Data-Scrapping/pexels_script.ipynb)
+   - [Images scrapping from unshplash.com](https://github.com/senhorinfinito/scrappers/blob/main/Images-Data-Scrapping/unsplash%20.ipynb)
 
-## Badges
+### Video Data Collection from YouTube.
+   - [Download videos using python -  using selenium & savefrom.net](https://github.com/senhorinfinito/scrappers/blob/main/Images-Data-Scrapping/video-downloading/video_1080_downloader.ipynb)
+   - [Download multiple vidoes & playlist in single pass using python](https://github.com/senhorinfinito/scrappers/blob/main/Images-Data-Scrapping/video-downloading/pytube_updated.ipynb)
 
-
-# Web Scraping using Python
-While working on existing datasets, I feel that these datasets are best for brushing up data cleaning, feature engineering skills. But the working on a brand new data set has always felt incomplete.  So I learned web scraping by using Python.  BeautifulSoup is a python library is helps you to web scrap tasks very efficiently & easily.  
-
-These are projects which I have done in web data scrapping:
-
-## Automated tools for web data scrapping.
-### Airline reviews
-
-- used selenium webdriver & automated to scrape data from tripadvisor.com
-- this will scrape each and every airline data from website.
-- 
-### Project details - Mobile details
-
-## Housing Rental Prices.  - [code](https://github.com/senhorinfinito/scrappers/blob/main/rental_analysis/99acres.py)
-
-This code helps you to find different house's data which is the available web. 
-
-I referred to 99acres.com for this project. The interface of the web page looks like this:
-
-![99acre.com](https://github.com/senhorinfinito/scrappers/blob/main/images/99acres.jpg)
-
-Run the web scraper to scrape 15000 housing data from [99acres.com](https://www.99acres.com/flats-for-rent-in-pune-ffid-page-2) Each sample(row) has the following points:
-- rent (Target Variable)
-- Number of bedrooms
-- Number of bathrooms 
-- Number of Balconies 
-- Brokerage amount 
-- Deposit Amount 
-- Maintenance amount
-- Built-Up Area
-- Super Built-Up Area
-- Type of Furnishing
-- Availability for 
-- Address
-- Floor Number 
-- Home Facing
-- Floor-type
-- Gate Community
-- Corner Property 
-- Parking Count
-- WheelChairFacility
-- Pet-Friendly
-- Agreement Duration
-- Electricity Bill
-- Power Backup  Facility
-- Property age
- 
-
-
-
-## Housing Rental from [Housing.com](https://housing.com/rent/flats-for-rent-in-pune-maharashtra-P2r4v3l939lxd541t?page=1) 
-
-This is my first python web scraping learning project.
-
-I have used [housing.com](https://housing.com/rent/flats-for-rent-in-pune-maharashtra-P2r4v3l939lxd541t?page=1) for this project & managed  to collect following points for a house. 
- 
- 
-![image](https://github.com/senhorinfinito/scrappers/blob/main/images/housing.com.jpg)
-
- - Rent
- - BHK 
- - Area
- - Hightlighted Features 
- - Text Description 
- - Verification status
- - Facility Listing 
- 
-This helps you to scrap around 6000 homes data.  
-
-Here you can check for [code](https://github.com/senhorinfinito/scrappers/blob/main/rental_analysis/housingcom.py)
-
-
-##  Laptop Data Scrapping With Specifications. 
-
-Every E-commerce website is a data repository. This repository helps you to get laptops & their specifications. It is capable of scrapping 470+ laptops data from [filpkart.com](https://www.flipkart.com/search?q=laptops&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off). 
-
-![image](https://github.com/senhorinfinito/scrappers/blob/main/images/laptop_details.jpg)
-This code returns the following details:
-1. Laptop Name
-2. Price -  Target
-3. Overall rating
-4. Total reviews
-5. Total rating
-6. Processor
-7. RAM
-8. OS 
-9. Storage 
-10. Screen Size
-11. Warranty 
-12. Accessory 
-
-Here you can check the [code](https://github.com/senhorinfinito/scrappers/blob/main/laptop_details/scrapper.py).
-
-Suggestions: If you want to scrape more data quantity please use more exceptions.
-
-
-## Stock Market News Scrapping.
-
-This scraper helps to scrape the text of each headline from India's top newspaper websites.  
-
-I preferred the following newspapers websites for data collection: 
-
-1. Economics Times 
-2. Financial Express
-3. Business Standard
-
-you can check the output file [here](https://github.com/senhorinfinito/scrappers/blob/main/news_headings/scrapper%20combined.py)
-
-This input code will be utilized for more data collection & update on django_server for the upcoming NLP project.
-
-
-## Telegram group communication history: JSON File
-
-Every Telegram chat can be exported into a JSON file. This project helps to scraps chat text data as well as know more about actions inside a group, warning messages & user info.
-
-
-I Have owned three groups that contain various topics discussions, I have stored that file in the local repository. This code helps you scrap 75000  chat history in 1.05  sec.  
-
-Here you can check the code for more [details](https://github.com/senhorinfinito/scrappers/blob/main/telegram_chat/telegram_chat_history_json.py). 
