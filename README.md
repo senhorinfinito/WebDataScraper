@@ -17,7 +17,7 @@ Following is the list of mini-project for data collection.
    - [Telegram History Data Extracction](https://github.com/senhorinfinito/scrappers/tree/main/Text-Data-Scrapping/telegram_chat)
    - [Customers Review of Vistra Air-Lines from tripadvisor.com](https://github.com/senhorinfinito/scrappers/tree/main/Text-Data-Scrapping/vistra_review)
    - [Times of India - News Summary](https://github.com/senhorinfinito/scrappers/blob/main/Text-Data-Scrapping/times-of-india-news/times-of-india.ipynb)
-  
+   - -[Mongodb Tool for the The Gaurdian News]()  
 ### Image Data Projects 
    - [High Quality Images scrapping from pexel.com](https://github.com/senhorinfinito/scrappers/blob/main/Images-Data-Scrapping/pexels_script.ipynb)
    - [Images scrapping from unshplash.com](https://github.com/senhorinfinito/scrappers/blob/main/Images-Data-Scrapping/unsplash%20.ipynb)
