@@ -6,7 +6,7 @@
 
 This repository is mainly divided into 2  Categories. First on is Text-Data(includes numeric data) & image data. 
 
-Following is the list of mini-project for data collection. 
+Following is list of mini-project which I have created for data collection . 
 ### Text Data Projects 
    - [Customers Reviews - Air India from tripadvisior.com](https://github.com/senhorinfinito/scrappers/tree/main/Text-Data-Scrapping/air_india). 
    - [Laptop Details - Flipkart](https://github.com/senhorinfinito/scrappers/tree/main/Text-Data-Scrapping/laptop_details)
