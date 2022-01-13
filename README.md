@@ -3,7 +3,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/scrappers.svg?cache=remove)
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
---update pending--
+
 This repository is mainly divided into 2  Categories. First on is Text-Data(includes numeric data) & image data. 
 
 Following is list of mini-project which I have created for data collection . 
