@@ -1,0 +1,3 @@
+[submodule "Text-Data-Scrapping/mongodb_flask_scrapy"]
+	path = Text-Data-Scrapping/mongodb_flask_scrapy
+	url = https://github.com/senhorinfinito/mongodb_flask_scrapy
